@@ -4,7 +4,8 @@ Small Implementation of a todo app in React-Native
 Android Emulator
 ---
 
-Run the follow this instructions
+Follow this instructions
+---
 1. Run in the terminal
 ```
 android avd
